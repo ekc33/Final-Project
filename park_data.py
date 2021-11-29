@@ -14,5 +14,3 @@ print(beechview/southside slopes)
 df = pd.park_data({'val':[10, 30, 20]})
 ax = df.plot.bar(x='neighborhoods', y='val', rot=0)
 
-https://cdn.discordapp.com/attachments/469896909755252756/914916478313193482/parkdatavisualization.png
-
