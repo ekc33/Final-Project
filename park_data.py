@@ -9,7 +9,7 @@ data = data[(data["type"] == "Park") | (data["type"] == "Open Space")]
 # Total all parks and open spaces for each neighborhood
 neighborhood = data["neighborhood"].value_counts()
 
-print(neighborhood)
+print(beechview/southside slopes)
 
 df = pd.park_data({'val':[10, 30, 20]})
 ax = df.plot.bar(x='neighborhoods', y='val', rot=0)
