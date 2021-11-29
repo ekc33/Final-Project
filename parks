@@ -1,6 +1,0 @@
-import pandas as pd
-parks = pd.read_csv("parks_data.csv", sep="\t")
-parks['neighborhood'].value_counts()
-print(neighborhood)
-
-
