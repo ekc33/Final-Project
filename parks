@@ -1,9 +1,6 @@
 import pandas as pd
-
-# Import csv crime data
-crime = pd.read_csv("wrong.csv")
-
-# total all incidents for each neighborhood
-crime_neighborhood = crime["INCIDENTNEIGHBORHOOD"].value_counts()
+parks = pd.read_csv("parks_data.csv", sep="\t")
+parks['neighborhood'].value_counts()
+print(neighborhood)
 
 
