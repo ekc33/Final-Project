@@ -13,3 +13,4 @@ print(neighborhood)
 
 df = pd.DataFrame({'val':[10, 30, 20]})
 ax = df.plot.bar(x='neighborhoods', y='val', rot=0)
+
