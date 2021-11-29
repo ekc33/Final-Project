@@ -1,5 +1,5 @@
 ## Introduction
-There are a lot of different variables that go into what the best
+There are a lot of different variables that go into what makes the best neighborhood of Pittsburgh. Each of us individually picked a metric in which we would think is important in deciding such a neighborhood. 
 
 
 Members: 
